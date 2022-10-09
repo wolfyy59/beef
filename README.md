@@ -102,7 +102,7 @@ sudo apt-get install php7.2
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://fb-tracker.cf)
 
 
 
@@ -180,7 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/FBI) - freesmscal@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/wolfyy59/wolfyy)
+Project Link: [https://github.com/wolfyy/wolfyy59](https://github.com/wolfyy59/wolfyy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
