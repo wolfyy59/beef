@@ -7,7 +7,7 @@ https://fb-tracker.cf/
 beef arm-arm64
 #Special thanks to Yassmine lacheheb , johhny dep and freddy cruger
 
-https://fb-tracker.cf/
+
 tar -xvzf beef.tgz
 to fix php problems -> This commands helps me:
 
