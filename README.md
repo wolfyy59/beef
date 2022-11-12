@@ -47,7 +47,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Configurations for termux to be able to get netflix beinsports and also free ooredoo data.</h3>
+  <h3 align="center">Configurations for termux to be able to learn and download tools such as  netflix beinsports and also free ooredoo data.</h3>
 
   <p align="center">
     An awesome cfgs to jumpstart your projects!
