@@ -1,5 +1,3 @@
-#Hack facebook using apk
-#https://fb-tracker.cf/
 
 
 
@@ -13,15 +11,6 @@
 3  bash config.sh
 
 
-tar -xvzf beef.tgz
-to fix php problems -> This commands helps me:
-
-1) Remove PHP and all his libraries and files
-
-sudo apt-get purge php7.*
-2) Install PHP again
-
-sudo apt-get install php7.2
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
