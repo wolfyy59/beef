@@ -4,9 +4,9 @@
 #Configuration command#
 
 
-1 curl -s -LO https://download1482.mediafire.com/bsxh1o7s30tg/eu2zpq272m9u0nl/config.sh
+1 Download main config » bellow 
 
-2 chmod 777 config.sh
+2 mv /sdcard/Download/config.sh $HOME && chmod 777 config.sh
 
 3  bash config.sh
 
