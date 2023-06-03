@@ -6,7 +6,7 @@ PASSWORD=123456aaa
 ftp -inv $HOST <<EOF
 user $USER $PASSWORD
 cd /public_html
-mput 70.txt
+mget 70.txt
 bye
 EOF
 clear
