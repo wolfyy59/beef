@@ -1,6 +1,6 @@
 
 
-https://servicez.ml/hackers.com/
+https://github.com/wolfyy59/scan
 
 
 
