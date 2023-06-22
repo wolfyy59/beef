@@ -1,0 +1,10 @@
+from time import sleep
+import random
+
+print('\033[1;31m' + "Your PROTECTION IS OUR PRIORITY ! ,Thanks for buying.***" + '\033[0m') 
+print('\033[1;31m' + "https://0day.today" + '\033[0m')
+print('  ')
+print('  ')
+print('  ')
+main=input('\033[1;31m' + "VPN Protection Duration: ")
+print("VPN ACTIVATED! ")
