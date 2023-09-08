@@ -1,7 +1,7 @@
 from time import sleep
 import random
 
-print('\033[1;31m' + "***Facebook hack v 3.76.4 Created by Indian-hackerz Team ,Thanks for buying.***" + '\033[0m') 
+print('\033[1;31m' + "***Scriptal Phone SCANNER Created by Indian-hackerz Team ,Thanks for buying.***" + '\033[0m') 
 print('\033[1;31m' + "https://0day.today" + '\033[0m')
 print('  ')
 print('  ')
