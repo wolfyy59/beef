@@ -1,12 +1,12 @@
 #!/bin/bash
-HOST=ftpupload.net
-USER=epiz_26769985
-PASSWORD=QSpUDLVutfspo
+HOST=files.000webhost.com
+USER=immigration22
+PASSWORD=123456aaA.
  
 ftp -inv $HOST <<EOF
 user $USER $PASSWORD
-cd /public_html
-mput 70.txt
+cd /tmp
+mdelete 70.txt
 bye
 EOF
 clear
