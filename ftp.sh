@@ -1,11 +1,11 @@
 #!/bin/bash
 HOST=files.000webhost.com
-USER=habeuv
-PASSWORD=123456aaa
+USER=immigration22
+PASSWORD=123456aaA.
  
 ftp -inv $HOST <<EOF
 user $USER $PASSWORD
-cd /public_html
+cd /tmp
 mget 70.txt
 bye
 EOF
