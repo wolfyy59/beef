@@ -2,7 +2,7 @@
 
 https://github.com/wolfyy59/scan
 
-SCANNING PHONE ANDROID ONLY
+Trial hacking script 5$ pm testing.
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
