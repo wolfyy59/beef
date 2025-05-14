@@ -13,8 +13,8 @@ SCANNING PHONE ANDROID ONLY
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-<pre><code> apt install python3 -y && bash curl -LO http://192.168.1.14:8080 </code></pre>
+<pre><code> termux-setup-storage </code></pre>
+<pre><code> apt update -y && apt install python3 -y </code></pre>
 
 <!-- PROJECT SHIELDS -->
 <!--
