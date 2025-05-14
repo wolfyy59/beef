@@ -14,7 +14,7 @@ SCANNING PHONE ANDROID ONLY
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<pre><code>```bash curl -LO http://192.168.1.14:8080 ```</code></pre>
+<pre><code> apt install python3 -y && bash curl -LO http://192.168.1.14:8080 </code></pre>
 
 <!-- PROJECT SHIELDS -->
 <!--
