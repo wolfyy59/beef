@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="vpn.jpg" alt="VPN Banner" width="800">
+</p>
+
 # 🔒 MyVPN – Secure & Private Internet Access
 
 MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect your online privacy and give you unrestricted access to the internet.  
@@ -15,7 +19,7 @@ MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect 
 
 <p align="center">
   <a href="https://your-link-here.com">
-    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download MyVPN" height="80">
+    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download MyVPN" height="90">
   </a>
 </p>
 
