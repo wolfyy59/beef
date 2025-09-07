@@ -2,9 +2,13 @@
   <img src="vpn.jpg" alt="VPN Banner" width="800">
 </p>
 
-# 🔒 MyVPN – Secure & Private Internet Access
+<h1 align="center">🔒 MyVPN – Secure & Private Internet Access</h1>
 
-MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect your online privacy and give you unrestricted access to the internet.  
+<p align="center">
+  MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect your online privacy and give you unrestricted access to the internet.
+</p>
+
+---
 
 ## 🌍 Key Features
 - 🔐 **Encryption** – Keep your data safe with strong encryption  
@@ -19,19 +23,20 @@ MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect 
 
 <p align="center">
   <a href="https://your-link-here.com">
-    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download MyVPN" height="90">
+    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-red?style=for-the-badge&logo=cloud&logoColor=white" 
+         alt="Download MyVPN" height="120">
   </a>
 </p>
 
 ---
 
 ## ⚡ How to Use
-1. Download and install MyVPN  
-2. Open the app and sign in  
-3. Choose a server and connect  
-4. Enjoy private & secure browsing 🎉  
+1. **Download and install MyVPN**  
+2. **Open the app and sign in**  
+3. **Choose a server and connect**  
+4. ✅ Enjoy private & secure browsing 🎉  
 
 ---
 
 ## 📌 License
-This project is licensed under the MIT License – feel free to modify and share.
+This project is licensed under the **MIT License** – feel free to modify and share.  
