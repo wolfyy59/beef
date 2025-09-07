@@ -12,9 +12,12 @@ MyVPN is a lightweight, secure, and easy-to-use VPN service designed to protect 
 ---
 
 ## 📥 Download MyVPN
-Click the button below to download the latest version:
 
-[![Download MyVPN](https://img.shields.io/badge/⬇️_Download-MyVPN-blue?style=for-the-badge)](https://your-link-here.com)
+<p align="center">
+  <a href="https://your-link-here.com">
+    <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download MyVPN" height="80">
+  </a>
+</p>
 
 ---
 
