@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://your-link-here.com">
     <img src="https://img.shields.io/badge/⬇️_Download-MyVPN-red?style=for-the-badge&logo=cloud&logoColor=white" 
-         alt="Download MyVPN" height="120">
+         alt="Download MyVPN" height="150">
   </a>
 </p>
 
